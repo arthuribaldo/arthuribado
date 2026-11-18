@@ -1,11 +1,11 @@
-### Olá, eu sou [Seu Nome] 👋
+### Olá, eu sou Arthur 👋
 
 Sou desenvolvedor(a) apaixonado(a) por tecnologia e estou sempre buscando aprender coisas novas e construir projetos úteis.
 
-- 🔭 Atualmente estou trabalhando em: **[Nome do seu projeto atual]**
-- 🌱 Estou aprendendo: **[Tecnologia ou linguagem que está estudando]**
-- 💬 Pergunte-me sobre: **[Suas principais habilidades]**
-- 📫 Como falar comigo: **[seu-email@exemplo.com](mailto:seu-email@exemplo.com)**
+- 🔭 Atualmente estou trabalhando em: **Linha Base**
+- 🌱 Estou aprendendo: **CSS Python and HTML**
+- 💬 Pergunte-me sobre: **Gestão e organização de rotina.**
+- 📫 Como falar comigo: **[Contato](mailto:ibaldosasiasarthur@gmail.com)**
 
 ---
 
@@ -29,4 +29,4 @@ Sou desenvolvedor(a) apaixonado(a) por tecnologia e estou sempre buscando aprend
 ### 🤝 Conecte-se comigo
 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Instagram](https://shields.io)](https://instagram.com)
+[![Instagram](https://shields.io)](https://instagram.com/@arthuribaldo)
